@@ -1,0 +1,26 @@
+header {
+
+  position: fixed;
+  width: 100%;
+  height: 12vh;
+  top: 0;
+  left: 0;
+  background-color: #202040;
+
+}
+
+content {
+
+  position: absolute;
+  height: 80vh;
+  width: 100%;
+  top: 12vh;
+  left: 0;
+  background-color: #f4f4f4;
+
+}
+
+.ck .ck-content .ck-editor__editable .ck-rounded-corners .ck-editor__editable_inline .ck-blurred{
+  width: 80%;
+  height: 400px;
+}
